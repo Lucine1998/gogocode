@@ -9,5 +9,5 @@
     "packages/gogocode-starter"
   ],
   "version": "1.0.14",
-  "npmClient": "npm"
+  //"npmClient": "npm"
 }
